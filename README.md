@@ -10,7 +10,7 @@ CryptoTracker provides comprehensive data on all major cryptocurrencies, includi
 - 🎨 **Modern & Intuitive UI**
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, TailwindCSS
+- **Frontend:** React.js, vite
 - **Backend:** Node.js, Express.js
 - **API:** CoinGecko
 - **Hosting:** Netlify
