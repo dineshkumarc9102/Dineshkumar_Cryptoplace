@@ -1,8 +1,22 @@
-# React + Vite
+# 📊 CryptoTracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoTracker provides comprehensive data on all major cryptocurrencies, including **live prices, market capitalization, 24-hour price changes, trading volumes**, and more. Powered by the reliable **CoinGecko API**, our platform ensures accurate and up-to-date information to help you make informed investment decisions. 🚀💰
 
-Currently, two official plugins are available:
+## 🌟 Features
+- 📈 **Live Price Updates**
+- 📊 **Market Capitalization & Trading Volume**
+- 🔄 **24-Hour Price Changes**
+- 🌍 **Supports Multiple Cryptocurrencies**
+- 🎨 **Modern & Intuitive UI**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React.js, TailwindCSS
+- **Backend:** Node.js, Express.js
+- **API:** CoinGecko
+- **Hosting:** Netlify
+
+## 🚀 Live Demo
+🔗 **[CryptoTracker Live](https://dineshkumarc-crypto-tracker.netlify.app/)**
+
+---
+**Track, analyze, and stay ahead in the crypto market! 🚀📈**
